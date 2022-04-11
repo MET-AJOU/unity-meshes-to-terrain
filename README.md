@@ -8,7 +8,7 @@
 
 
 
-#### 1. How To Use..
+### How To Use..
 
 1. `Meshes2Terrain.cs`를 `UnityProject/Assets/Editor` 위치에 저장합니다.
 2. `Scene Hierachy`에서 `Terrain`으로 옮기고 싶은 `Objects`를 선택한 후 유니티 상단 바에 추가된 `Terrain`버튼을 누르고 `Meshes To Terrain`을 누릅니다.
